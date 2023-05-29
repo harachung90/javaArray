@@ -34,7 +34,5 @@ public class Explore {
                 System.out.printf("Hole #%d: %d %n", j+1, scoreCards[i][j]);
             }
         }
-
-
     }
 }
